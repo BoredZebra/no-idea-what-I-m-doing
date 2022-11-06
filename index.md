@@ -3,3 +3,7 @@
 #  <h5> I can't believe I made it work :)
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # <h3> I even managed to add the picture :)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
